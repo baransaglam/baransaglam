@@ -27,6 +27,9 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 ---
 
+![Snake Animation](https://raw.githubusercontent.com/baransaglam/baransaglam/output/github-snake.svg)
+
+
 ## 🚀 Featured Repositories
 
 ### [OCEAN GATE](https://github.com/baransaglam/OceanGate-Port-Tracking-Automation)  
