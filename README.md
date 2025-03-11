@@ -29,14 +29,7 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 ## 🚀 Featured Repositories
 
-### [ASP.NET Dashboard](https://github.com/baransaglam/project1)  
-A high-performance web dashboard built with ASP.NET, Entity Framework, and MSSQL.
-
-### [Immersive Unity Game](https://github.com/baransaglam/project2)  
-An engaging Unity game showcasing creative mechanics and design, developed with Unity and C#.
-
-### [3D Digital Sculpt](https://github.com/baransaglam/project3)  
-A digital sculpting project highlighting advanced 3D modeling techniques with Blender and ZBrush.
+### [OCEAN GATE](https://github.com/baransaglam/OceanGate-Port-Tracking-Automation)  
 
 ---
 
