@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-![Banner](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQxMTdoYzlxYnVtaHQ3YXY5b3pjM2FoNDNlaDY5aGNxdHZ3MXBvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 # Hey, I'm **Baran**
 > *ASP.NET Developer | Game Dev | 3D Artist*
