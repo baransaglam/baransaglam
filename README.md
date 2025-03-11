@@ -45,13 +45,13 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 <div align="center">
   <!-- Streak Stats -->
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baransaglam&theme=tokyonight)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baransaglam&theme=tokyonight" alt="GitHub Streak" width="45%" style="display:inline-block; margin-right: 10px;" />
 
   <!-- General GitHub Stats -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baransaglam&show_icons=true&theme=tokyonight) <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=baransaglam&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" style="display:inline-block; margin-right: 10px;" />
 
   <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baransaglam&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baransaglam&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" style="display:inline-block;" />
 </div>
 
 ---
