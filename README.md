@@ -45,7 +45,7 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 <div align="center">
   <!-- Streak Stats -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baransaglam&theme=tokyonight)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baransaglam&theme=tokyonight)
 
   <!-- General GitHub Stats -->
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baransaglam&show_icons=true&theme=tokyonight) <br>
