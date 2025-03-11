@@ -15,16 +15,14 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 ---
 
 ## 🛠 Tech Stack
-
-## 🛠 Tech Stack
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" width="50" />
-    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" width="145" />
-    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" width="240" />
-    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" width="90" />
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" width="110" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" width="135" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" width="40" />
+    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" width="115" />
+    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" width="190" />
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" width="75" />
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" width="100" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" width="105" />
   </div>
 </div>
 
