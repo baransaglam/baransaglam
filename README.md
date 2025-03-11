@@ -10,7 +10,7 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 ## 🔥 What I Do
 - **ASP.NET Web Development**: Crafting scalable, secure web applications with C#, Entity Framework, and MSSQL.
 - **Game Development**: Creating engaging, dynamic games using Unity and C#.
-- **3D Art & Sculpting**: Designing detailed digital sculptures and models using Blender and ZBrush.
+- **3D Art & Sculpting**: Designing detailed digital sculptures and models using Blender 
 
 ---
 
