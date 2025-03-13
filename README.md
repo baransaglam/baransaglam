@@ -39,7 +39,26 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 ## 🚀 Featured Repositories
 
-### [OCEAN GATE](https://github.com/baransaglam/OceanGate-Port-Tracking-Automation) - Port Tracking Automation 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 10px; border: none;">
+      <a href="https://github.com/baransaglam/OceanGate-Port-Tracking-Automation">
+        <img src="https://github.com/baransaglam/baransaglam/raw/main/brnIMAGES/OG1.png" width="80" height="80" alt="OceanGate Logo" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; border: none;">
+      <span style="font-size: 18px; font-weight: bold;">OceanGate - Port Tracking Automation</span>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 
 ---
 
