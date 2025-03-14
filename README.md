@@ -77,16 +77,5 @@ I’m a creative technologist who blends code and art to build robust web apps, 
 
 ---
 
-## 📬 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yusuf-baran-sağlam-2a10302a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/baransaglam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
----
 
