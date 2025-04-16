@@ -3,8 +3,7 @@
 # Hey, I'm **Baran**
 > *ASP.NET Developer | Game Dev | 3D Artist*
 
-I’m a creative technologist who blends code and art to build robust web apps, immersive games, and intricate 3D sculptures. I’m all about turning challenges into innovative digital experiences.
-
+I’m an indie game developer and creative builder who blends code and art to craft immersive games, interactive web experiences, and unique digital worlds. I’m passionate about turning ideas into meaningful and playable realities.
 ---
 
 ## 🔥 What I Do
