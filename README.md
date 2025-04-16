@@ -3,17 +3,22 @@
 # Hey, I'm **Baran**
 > *ASP.NET Developer | Game Dev | 3D Artist*
 
-I’m an indie game developer and creative builder who blends code and art to craft immersive games, interactive web experiences, and unique digital worlds. I’m passionate about turning ideas into meaningful and playable realities.
+I'm an indie game developer and creative builder who blends code and art to craft immersive digital experiences.  
+While I have a strong foundation in game development and continue to work on personal projects, my current main focus is full-stack web development, where I build secure and scalable applications using technologies like ASP.NET, C#, and MSSQL.
+
+I'm deeply passionate about storytelling, design, and interactive media. As I grow my skills in 3D modeling and virtual reality, my goal is to bring my game projects to a whole new level — blending gameplay, narrative, and technology into unforgettable worlds.
+
+I'm still learning, building, and exploring — and I truly believe that every line of code and every pixel drawn is a step toward something meaningful.
 ---
 
 ## 🔥 What I Do
 - **ASP.NET Web Development**: Crafting scalable, secure web applications with C#, Entity Framework, and MSSQL.
+  
+- - **Game Development**  
+  Learning to build engaging games using Unity and C#.
 ---
 
 ## 🧪 What I’m Exploring
-
-- **Game Development**  
-  Learning to build engaging games using Unity and C#.
 
 - **3D Art & Sculpting**  
   Practicing digital modeling and sculpting in Blender.
