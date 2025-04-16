@@ -8,10 +8,21 @@ I’m an indie game developer and creative builder who blends code and art to cr
 
 ## 🔥 What I Do
 - **ASP.NET Web Development**: Crafting scalable, secure web applications with C#, Entity Framework, and MSSQL.
-- **Game Development**: Creating engaging, dynamic games using Unity and C#.
-- **3D Art & Sculpting**: Designing detailed digital sculptures and models using Blender 
-
 ---
+
+## 🧪 What I’m Exploring
+
+- **Game Development**  
+  Learning to build engaging games using Unity and C#.
+
+- **3D Art & Sculpting**  
+  Practicing digital modeling and sculpting in Blender.
+
+- **Virtual Reality (VR)**  
+  Exploring immersive design and interactive experiences in virtual spaces.
+
+- **Artificial Intelligence (AI)**  
+  Interested in the creative and technical applications of AI in web, games, and art.
 
 ## 🛠 Tech Stack
 <div align="center">
