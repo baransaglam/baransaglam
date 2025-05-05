@@ -13,8 +13,10 @@ I'm still learning, building, and exploring — and I truly believe that every l
 
 ## 🔥 What I Do
 - **ASP.NET Web Development**: Crafting scalable, secure web applications with C#, Entity Framework, and MSSQL.
-  
-- - **Game Development**  
+
+- **Full-Stack Development**: Designing complete user experiences by integrating intuitive front-end interfaces (React, Tailwind CSS) with efficient, secure back-end APIs and database logic.
+---
+- **Game Development**  
   Learning to build engaging games using Unity and C#.
 ---
 
