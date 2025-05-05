@@ -68,6 +68,18 @@ I'm still learning, building, and exploring — and I truly believe that every l
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 10px; border: none;">
+      <a href="https://github.com/baransaglam/OceanGate-Port-Tracking-Automation">
+        <img src="https://github.com/baransaglam/baransaglam/raw/main/brnIMAGES/RoostWatch.png" width="80" height="80" alt="OceanGate Logo" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; border: none;">
+      <span style="font-size: 18px; font-weight: bold;">RoostWatch - Poultry House Tracking System</span>
+    </td>
+  </tr>
+</table>
 
 
 
