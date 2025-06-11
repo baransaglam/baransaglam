@@ -1,32 +1,14 @@
 ![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQxMTdoYzlxYnVtaHQ3YXY5b3pjM2FoNDNlaDY5aGNxdHZ3MXBvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 # Hey, I'm **Baran**
-> *ASP.NET Developer | Game Dev | 3D Artist*
 
-I'm an indie game developer and creative builder who blends code and art to craft immersive digital experiences.  
-While I have a strong foundation in game development and continue to work on personal projects, my current main focus is full-stack web development, where I build secure and scalable applications using technologies like ASP.NET, C#, and MSSQL.
-
-I'm deeply passionate about storytelling, design, and interactive media. As I grow my skills in 3D modeling and virtual reality, my goal is to bring my game projects to a whole new level — blending gameplay, narrative, and technology into unforgettable worlds.
-
-I'm still learning, building, and exploring — and I truly believe that every line of code and every pixel drawn is a step toward something meaningful.
 ---
 
 ## 🔥 What I Do
-- **ASP.NET Web Development**: Crafting scalable, secure web applications with C#, Entity Framework, and MSSQL.
 
-- **Full-Stack Development**: Designing complete user experiences by integrating intuitive front-end interfaces (React, Tailwind CSS) with efficient, secure back-end APIs and database logic.
----
-- **Game Development**  
-  Learning to build engaging games using Unity and C#.
 ---
 
 ## 🧪 What I’m Exploring
-
-- **3D Art & Sculpting**  
-  Practicing digital modeling and sculpting in Blender.
-
-- **Virtual Reality (VR)**  
-  Exploring immersive design and interactive experiences in virtual spaces.
 
 - **Artificial Intelligence (AI)**  
   Interested in the creative and technical applications of AI in web, games, and art.
