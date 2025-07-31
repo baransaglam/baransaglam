@@ -10,8 +10,7 @@
 
 ## 🧪 What I’m Exploring
 
-- **Artificial Intelligence (AI)**  
-  Interested in the creative and technical applications of AI in web, games, and art.
+
 
 ## 🛠 Tech Stack
 <div align="center">
