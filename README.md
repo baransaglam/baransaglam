@@ -8,10 +8,6 @@
 
 ---
 
-## 🧪 What I’m Exploring
-
-
-
 ## 🛠 Tech Stack
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -23,7 +19,10 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" width="80" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="100" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" width="80" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" width="90" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" width="60" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" width="100" height="40" />
+
+
 
   </div>
 </div>
